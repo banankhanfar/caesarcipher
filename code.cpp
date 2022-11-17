@@ -1,6 +1,7 @@
 #include<iostream>
 #include<string>
 using namespace std;
+
 char ch[] = {'(', ')', '^', '+', '-', '_', '<','#', '.', '%', '&', '*', '@', '$','>', '/', ':', '?', '}', '{', ']', '[', '~', '!', ';', '.' };
 int encryption(){
     string mess;
